@@ -1,0 +1,9 @@
+LICENSE
+pyproject.toml
+setup.cfg
+src/pkgapp/__init__.py
+src/pkgapp/example.py
+src/pkgapp.egg-info/PKG-INFO
+src/pkgapp.egg-info/SOURCES.txt
+src/pkgapp.egg-info/dependency_links.txt
+src/pkgapp.egg-info/top_level.txt
